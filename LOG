@@ -1,4 +1,5 @@
 log and progress
 Day 1 : Bussiness stragey 
-1 | The app should convert currency from different parts of the world along with crypto currency, in doing so i would need to create a file strickly for data handling of currencey. ie
-whats he current rate of conversion
+1 | The app should convert currency from different parts of the world along with crypto currency, in doing so i would need to create a file strickly for data conversion rates . 
+i.e whats the current rate of conversion, eventually have currency calcuacated form other currency, to do so a function should best fit... the goal is to sart small and work our way up 
+FOOFB: create funnction to convert to use as dollars and file woth each conversion rate 

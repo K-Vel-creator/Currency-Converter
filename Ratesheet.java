@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
  
-public class GFG {
+public class Ratesheet {
     // to handle exceptions include throws
     public static void main(String[] args)
         throws IOException
@@ -36,6 +36,6 @@ public class GFG {
         for (String str : array) {
             System.out.println(str);
         }
-        system.out.println("Hello World ")
+        System.out.println("Hello World ");
     }
 }

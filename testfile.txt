@@ -1,2 +1,6 @@
-this is just a test for the file tobe read properly ...
-adding extra bluff 
+albania | all
+andorra | euro 
+armenia | dram 
+Austria | euro 
+Azerbaijan | Azn 
+

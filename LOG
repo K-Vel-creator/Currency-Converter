@@ -3,3 +3,11 @@ Day 1 : Bussiness stragey
 1 | The app should convert currcy from different parts of the world along with crypto currency, in doing so i would enneed to create a file strickly for data conversion rates . 
 i.e whats the current rate of conversion, eventually have currency calcuacated form other currency, to do so a function should best fit... the goal is to sart small and work our way up 
 FOOFB: create funnction to convert to use as dollars and file woth each conversion rate 
+
+Day 2 : update to filehandling and executable code 
+made code compeletly executable, now able to run the program. I still need to make sure file is correctly put in to arrray and then formmated into variables for day 3 
+
+Day 3 : Testing the txt file to make sure it works, system seems to be recieving error,once error is solved , i must find a way to inizalize each variable from txt file . 
+
+Day 4 | created a currency class that is stillin progress. i need to figure how the class willbe structure. also change data handling files
+        next challege.. create an converter 

@@ -10,6 +10,9 @@ public class Ratesheet {
     public static void main(String[] args)
         throws IOException
     {
+        Currcency USD = new Currcency(); 
+
+        
         // list that holds strings of a file
         List<String> listOfStrings = new ArrayList<String>();
        
@@ -36,6 +39,7 @@ public class Ratesheet {
         for (String str : array) {
             System.out.println(str);
         }
-        System.out.println("Hello World ");
+        
     }
+
 }

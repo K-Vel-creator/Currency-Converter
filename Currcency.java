@@ -3,7 +3,7 @@ public class Currcency {
 
     private String Name;
     private String Country;
-    private int Amount;
+    private int[] Amount = new int[100];
 
 
 
@@ -16,11 +16,12 @@ public class Currcency {
         Country = country;
 
     }
+    
+    //TODO: Create method that set num in array List
+     //public void setAmount(int amount){
+        //Amount = amount;
 
-     public void setAmount(int amount){
-        Amount = amount;
-
-    }
+    //}
 
 
 
@@ -32,9 +33,10 @@ public class Currcency {
         return Country; 
     }
 
-     public int getAmount(){
-        return Amount; 
-    }
+    //TODO: create a get method for array list
+    // public int getAmount(){
+      //  return Amount; 
+    //}
 
 
 

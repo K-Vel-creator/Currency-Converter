@@ -12,6 +12,10 @@ public class Ratesheet {
     {
         Currcency USD = new Currcency(); 
 
+        USD.setName("Dollars");
+        USD.setAmount(200);
+        USD.setCountry("United States");
+        
         
         // list that holds strings of a file
         List<String> listOfStrings = new ArrayList<String>();
@@ -39,6 +43,8 @@ public class Ratesheet {
         for (String str : array) {
             System.out.println(str);
         }
+
+        System.out.println("Name: "+ USD.getCountry());
         
     }
 

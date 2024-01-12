@@ -11,3 +11,9 @@ Day 3 : Testing the txt file to make sure it works, system seems to be recieving
 
 Day 4 | created a currency class that is stillin progress. i need to figure how the class willbe structure. also change data handling files
         next challege.. create an converter 
+
+Day 5 | defining class Currency 
+                Currency :
+                        Name 
+                        amount 
+                        country 
